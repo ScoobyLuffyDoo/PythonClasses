@@ -50,6 +50,6 @@ print(basicClassConstructor(Variable1,Variable2).function())
 #-----------------
 # Class with everyting 
 myEverything = everythigClass("CtrVar1","CtrVar2",).everything_function("VarParm1","VarParm2")
-print(myEverything)
+print(myEverything) 
 
 

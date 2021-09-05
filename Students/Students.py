@@ -25,4 +25,4 @@ myStudent = Student(StudentName,StudentSurname,StudentAge,StudentStudentID)
 
 #getting student details Summery 
 
-print(str(myStudent.StudentDetails()))
+print(str(myStudent.StudentDetails())) 
